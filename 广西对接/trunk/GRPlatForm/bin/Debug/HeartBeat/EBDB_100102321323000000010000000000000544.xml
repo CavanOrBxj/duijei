@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EBD xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <EBDVersion>1.0</EBDVersion>
+  <EBDID>100102321323000000010000000000000544</EBDID>
+  <EBDType>EBRDTInfo</EBDType>
+  <SRC>
+    <EBRID>010232132300000001</EBRID>
+  </SRC>
+  <EBDTime>2017-10-31 09:00:12</EBDTime>
+  <EBRDTInfo>
+    <EBRDT>
+      <RptTime>2017-10-31 09:00:12</RptTime>
+      <RptType>Sync</RptType>
+      <RelatedEBRPS>
+        <EBRID>010232132300000001</EBRID>
+      </RelatedEBRPS>
+      <EBRID>0601321323000000</EBRID>
+      <EBRName>0号</EBRName>
+      <Longitude>119.62372406555176</Longitude>
+      <Latitude>31.99689012499245</Latitude>
+      <Params />
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2017-10-31 09:00:12</RptTime>
+      <RptType>Sync</RptType>
+      <RelatedEBRPS>
+        <EBRID>010232132300000001</EBRID>
+      </RelatedEBRPS>
+      <EBRID>0601321323000000</EBRID>
+      <EBRName>1号</EBRName>
+      <Longitude>119.5799504144286</Longitude>
+      <Latitude>31.979337440408983</Latitude>
+      <Params />
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2017-10-31 09:00:12</RptTime>
+      <RptType>Sync</RptType>
+      <RelatedEBRPS>
+        <EBRID>010232132300000001</EBRID>
+      </RelatedEBRPS>
+      <EBRID>0601321323000000</EBRID>
+      <EBRName>2号</EBRName>
+      <Longitude>121.48041351867676</Longitude>
+      <Latitude>37.5850380340542</Latitude>
+      <Params />
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2017-10-31 09:00:12</RptTime>
+      <RptType>Sync</RptType>
+      <RelatedEBRPS>
+        <EBRID>010232132300000001</EBRID>
+      </RelatedEBRPS>
+      <EBRID>0601321323000000</EBRID>
+      <EBRName>3号</EBRName>
+      <Longitude>118.60076062078747</Longitude>
+      <Latitude>33.698439038655906</Latitude>
+      <Params />
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2017-10-31 09:00:12</RptTime>
+      <RptType>Sync</RptType>
+      <RelatedEBRPS>
+        <EBRID>010232132300000001</EBRID>
+      </RelatedEBRPS>
+      <EBRID>0601321323000000</EBRID>
+      <EBRName>4号</EBRName>
+      <Longitude>118.67217175359997</Longitude>
+      <Latitude>33.66872797105418</Latitude>
+      <Params />
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2017-10-31 09:00:12</RptTime>
+      <RptType>Sync</RptType>
+      <RelatedEBRPS>
+        <EBRID>010232132300000001</EBRID>
+      </RelatedEBRPS>
+      <EBRID>0601321323000000</EBRID>
+      <EBRName>5号</EBRName>
+      <Longitude>118.58428112859997</Longitude>
+      <Latitude>33.698439038655906</Latitude>
+      <Params />
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2017-10-31 09:00:12</RptTime>
+      <RptType>Sync</RptType>
+      <RelatedEBRPS>
+        <EBRID>010232132300000001</EBRID>
+      </RelatedEBRPS>
+      <EBRID>0601321323000000</EBRID>
+      <EBRName>6号</EBRName>
+      <Longitude>118.53484265203747</Longitude>
+      <Latitude>33.714433051875574</Latitude>
+      <Params />
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2017-10-31 09:00:12</RptTime>
+      <RptType>Sync</RptType>
+      <RelatedEBRPS>
+        <EBRID>010232132300000001</EBRID>
+      </RelatedEBRPS>
+      <EBRID>0601321323000000</EBRID>
+      <EBRName>7号</EBRName>
+      <Longitude>118.59801403875622</Longitude>
+      <Latitude>33.693868773590026</Latitude>
+      <Params />
+    </EBRDT>
+  </EBRDTInfo>
+  <Params>
+    <RPTStartTime>2017-10-31 09:00:12</RPTStartTime>
+    <RPTEndTime>2017-10-31 09:00:12</RPTEndTime>
+    <RptType>
+    </RptType>
+  </Params>
+</EBD>

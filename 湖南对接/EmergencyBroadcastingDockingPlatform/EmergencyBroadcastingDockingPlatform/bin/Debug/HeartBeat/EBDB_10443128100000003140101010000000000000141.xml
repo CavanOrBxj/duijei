@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EBD xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <EBDVersion>1</EBDVersion>
+  <EBDID>10443128100000003140101010000000000000141</EBDID>
+  <EBDType>EBRDTState</EBDType>
+  <SRC>
+    <EBRID>44312810000000314010101</EBRID>
+    <URL>http://100.120.106.2:7500</URL>
+  </SRC>
+  <EBDTime>2019-04-19 15:12:59</EBDTime>
+  <EBRDTState>
+    <EBRDT>
+      <RptTime>2019-04-19 15:12:59</RptTime>
+      <EBRID>64312811020030314010401</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2019-04-19 15:12:59</RptTime>
+      <EBRID>64312811020030314020402</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2019-04-19 15:12:59</RptTime>
+      <EBRID>64312811020030314010403</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+  </EBRDTState>
+</EBD>

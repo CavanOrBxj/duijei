@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EBD xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <EBDVersion>1</EBDVersion>
+  <EBDID>01436078100000003140101010000000000000000</EBDID>
+  <EBDType>ConnectionCheck</EBDType>
+  <SRC>
+    <EBRID>43607810000000314010101</EBRID>
+  </SRC>
+  <EBDTime>2019-04-23 22:21:19</EBDTime>
+  <ConnectionCheck>
+    <RptTime>2019-04-23 22:21:19</RptTime>
+  </ConnectionCheck>
+</EBD>

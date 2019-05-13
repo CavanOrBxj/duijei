@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Signature>
+  <Version>1</Version>
+  <RelatedEBD>
+    <EBDID>10453262500000003140100000000000000000151</EBDID>
+  </RelatedEBD>
+  <CertSN>0000000000000001</CertSN>
+  <SignatureAlgorithm>SM2-SM3</SignatureAlgorithm>
+  <SignatureValue>XMVdMgAAAAAAATVVpFiEa9uqB15sG6U6ohrrGV54YxUjyWLwrgRjFcckCqsabE5LDkr4EbVET2WIe7/wXYW2/kUAB02GTeCstMY=</SignatureValue>
+</Signature>

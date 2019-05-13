@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EBD xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <EBDVersion>1</EBDVersion>
+  <EBDID>10450011600000003140102010000000000000135</EBDID>
+  <EBDType>EBRDTState</EBDType>
+  <SRC>
+    <EBRID>45001160000000314010201</EBRID>
+    <URL>http://192.168.4.233:7500</URL>
+  </SRC>
+  <EBDTime>2019-04-16 19:15:20</EBDTime>
+  <EBRDTState />
+</EBD>

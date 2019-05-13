@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EBD xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <EBDVersion>1</EBDVersion>
+  <EBDID>10453262500000003140100000000000000000154</EBDID>
+  <EBDType>EBRDTState</EBDType>
+  <SRC>
+    <EBRID>45326250000000314010000</EBRID>
+    <URL>http://192.168.100.233:7500</URL>
+  </SRC>
+  <EBDTime>2019-04-28 15:59:03</EBDTime>
+  <EBRDTState>
+    <EBRDT>
+      <RptTime>2019-04-28 15:59:03</RptTime>
+      <EBRID>65326251022020314020401</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2019-04-28 15:59:03</RptTime>
+      <EBRID>65326251021010314020402</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2019-04-28 15:59:03</RptTime>
+      <EBRID>65326251022030314020202</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2019-04-28 15:59:03</RptTime>
+      <EBRID>65326251022020314010402</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2019-04-28 15:59:03</RptTime>
+      <EBRID>45326250000000314020201</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2019-04-28 15:59:03</RptTime>
+      <EBRID>65326251021010314020405</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2019-04-28 15:59:03</RptTime>
+      <EBRID>45326250000000314120212</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2019-04-28 15:59:03</RptTime>
+      <EBRID>65326251022040314020401</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2019-04-28 15:59:03</RptTime>
+      <EBRID>65326251022050314020401</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2019-04-28 15:59:03</RptTime>
+      <EBRID>65326251022060314020401</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2019-04-28 15:59:03</RptTime>
+      <EBRID>65326251022070314020401</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2019-04-28 15:59:03</RptTime>
+      <EBRID>65326251022080314020401</EBRID>
+      <StateCode>3</StateCode>
+      <StateDesc>故障</StateDesc>
+    </EBRDT>
+  </EBRDTState>
+</EBD>
